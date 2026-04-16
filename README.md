@@ -32,7 +32,7 @@
 ## 🚀 Installation
 
 ### Option 1: Download the executable (Windows)
-1. Go to [Releases](https://github.com/RaulRDA/youtube-downloader-pro/releases)
+1. Go to [Releases](https://github.com/RaulRDA/YouTubeDownloaderPro/releases)
 2. Download `YouTubeDownloaderPro.exe`
 3. Place `ffmpeg.exe` in the same folder (required for MP3 and high quality videos)
 4. Run the app
