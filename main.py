@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-YouTube Downloader Pro - Modern GUI
-Compact interface, English language, watermark, custom icons.
-"""
-
 import os
 import sys
 import threading
